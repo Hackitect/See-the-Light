@@ -1,6 +1,9 @@
 
 # TEAM SeeTheLight(STL) - ANDELA NEWS HACKATHON
 
+# Badges
+[![Maintainability](https://api.codeclimate.com/v1/badges/064b0fce96b1a1d633b8/maintainability)](https://codeclimate.com/github/Hackitect/See-the-Light/maintainability)
+
 ## Contributors
 [Simon Injiri](https://www.github.com/injiri)<br>
 [Brian Wandera](https://www.github.com/wandesky)<br>
